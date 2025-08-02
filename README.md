@@ -67,5 +67,5 @@ A responsive **To-Do List web application** that allows users to manage tasks ef
 Feel free to connect with me:
 
 - **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan42)
-- **GitHub:** [Umar-khan6]https://github.com/Umar-khan6
+- **GitHub:** [Umar-khan6](https://github.com/Umar-khan6)
 - **Email:** umarkhan655020@gmail.com
